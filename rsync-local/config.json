@@ -19,11 +19,6 @@
   "ports": {},
   "ports_description": {},
   "map": [
-    "share:rw",
-    "config:rw",
-    "backup:rw",
-    "addons:rw",
-    "ssl:rw",
     "media:rw"
   ],
   "devices":[
